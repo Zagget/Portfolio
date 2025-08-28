@@ -119,7 +119,6 @@ An overview over the projects I've made or been a part of.
 
   <br>
   
-[![Watch Trailer](https://img.shields.io/badge/Watch%20Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AJ-b_6nHIyI)
 <details>
   <summary><strong>Details</strong></summary>
 
@@ -128,13 +127,18 @@ An overview over the projects I've made or been a part of.
   **Gameplay**  
   Survive a merciless frozen world where the cold can claim you within minutes. One wrong move, losing your way, or neglecting to eat could mean your downfall.
   Unravel the mystery of this icy wasteland as you chase a team of researchers always just beyond your grasp. But beware; the freezing cold isn’t the only danger. You must fight to keep your sanity intact before reaching the epic conclusion.
-
+  
+  <br>
+  
   <img src="/Gifs/Snowblind/Skiing.gif" width="400"/>
-
+  
+  <br>
   
   **Environment**
   SnowBlind features a harsh, frozen environment designed to immerse players in its chilling atmosphere.
 
+ <br>
+ 
 <table>
   <tr>
     <td>
@@ -153,7 +157,8 @@ An overview over the projects I've made or been a part of.
     </td>
   </tr>
 </table>
-  
+
+  <br>
 
   **About**  
   SnowBlind was developed as a student project in Gothenburg, Sweden.
