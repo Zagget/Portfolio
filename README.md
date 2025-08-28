@@ -60,6 +60,10 @@ An overview over the projects I've made or been a part of.
 # PaperFin
 **A growing game with cutout magazine-style assets**
 
+<a href="https://ljusica.itch.io/paperfin" target="_blank">
+  <img src="/Pics/ItchLogo.png" width="4%">
+</a>
+
 <img src="/Pics/PaperFin/Poster.png" width="25%">
 
   **Status:** Finished Gamejam  
@@ -101,7 +105,11 @@ An overview over the projects I've made or been a part of.
 # SnowBlind
 **A walking simulator horror game**
 
-[![Watch Trailer](https://img.shields.io/badge/Watch%20Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AJ-b_6nHIyI)
+[![Watch Trailer](https://img.shields.io/badge/Watch%20Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KFyPeL4YYyQ)
+<a href="https://yrgo-game-creator.itch.io/snow" target="_blank">
+  <img src="/Pics/ItchLogo.png" width="4%">
+</a>
+
 <img src="/Pics/SnowBlind/Poster.png" width="100%">
 
   **Status:** Completed Student Project 
@@ -111,6 +119,7 @@ An overview over the projects I've made or been a part of.
 
   <br>
   
+[![Watch Trailer](https://img.shields.io/badge/Watch%20Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AJ-b_6nHIyI)
 <details>
   <summary><strong>Details</strong></summary>
 
