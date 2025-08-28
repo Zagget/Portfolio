@@ -1,58 +1,56 @@
-# Jonathan Romskaugs Portfolio
+# Jonathan Romskaug Portfolio
 
-<img src="/Gifs/G&D.gif" width="40%">
+An overview over the projects I've made or been a part of.
 
-Welcome!
-Im a 30 year old who loves games who has in the last year started to pursue a career in game development.
-<br><br>
+# Greed & Darkness
+**A moody, atmospheric puzzle game in retro style**
 
-### 🔗 Contact & Links<br>
-LinkedIn [Profile](https://www.linkedin.com/in/jonathan-romskaug-08a0951b0/) <br>
-Email - jonathan.romskaug@gmail.com<br>
+[![Watch Trailer](https://img.shields.io/badge/Watch%20Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=KFyPeL4YYyQ)
+[![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3770160/Greed__Darkness_Demo/)
 
-# Projects 
+<img src="/Pics/G&D/PosterMain.png" width="100%">
 
-## __Greed & Darkness__ [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/3538070/Greed__Darkness/)
-<a href="https://www.youtube.com/watch?v=KFyPeL4YYyQ">
-  <img src="https://img.shields.io/badge/Watch%20Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="40">
-</a>
-<br>
+  **Status:** Still in Development  
+  **Engine:** Unity  
+  **Genre:** Atmospheric Puzzle Game  
+  **Team:** 4 Programmers, 2 Artists  
 
-<a href="https://www.youtube.com/watch?v=KFyPeL4YYyQ">
-  <img src="https://img.youtube.com/vi/KFyPeL4YYyQ/maxresdefault.jpg" width="300">
-</a>
-
-
-
-```
-Status:     Still in Development
-Engine:     Unity
-Genre:      atmospheric puzzle game 
-Team:       4 Programmers, 3 Artist
-
-```
-<details>
-  summary>More info</summary>
-
-Currently in development, over 7000 wishlist on steam.
-
+  <br>
   
-</details>
+<details>
+  <summary><strong>Details</strong></summary>
 
-## Paperfin
-Won best graphics in Global Game Jam 2024
+  <br>
 
-## Snowblind
-Unreal project walking sim
+  **Gameplay**  
+  Venture into a foreboding fortress to gather riches with only a torch to guide you. Use sight, sound and the tools at hand to navigate the dark tunnels and unlock the Gorged One's chamber. Leaving empty-handed is not an option…  
+  *Inspired by Swedish board game Drakborgen.*
 
-//Bilder tsm
+  <img src="/Gifs/G&D/Fighting.gif" width="60%">
+  
+  <br>
+  <br>
+  
 <table>
   <tr>
-    <td width="50%"><img src="/_Images/vesper (2).jpg" /></td>
-    <td width="50%"><img src="/_Images/vesper (1).jpg" /></td>
+    <td><img src="/Pics/G&D/GorgeHand.png" width="200"/></td>
+    <td><img src="/Pics/G&D/ExitDoor.png" width="200"/></td>
   </tr>
   <tr>
-    <td width="50%"><img src="/_Images/vesper (3).jpg" /></td>
-    <td width="50%"><img src="/_Images/vesper (5).jpg" /></td>
+    <td><img src="/Pics/G&D/BarricadeRoom.png" width="200"/></td>
+    <td><img src="/Pics/G&D/RotationRoom.png" width="200"/></td>
   </tr>
 </table>
+
+  <br>
+
+  **About**  
+  Greed & Darkness was made as a student project by a small team in Gothenburg, Sweden.  
+  After launch, the game was picked up by some larger YouTube channels, leading to us gaining some virality online (16 000 downloads on itch.io and a combined 400 000+ views on YouTube). We decided to continue development and to start a business.  
+  Our most recent demo is now released on Steam as of **July 18, 2025**.
+  <br>
+
+</details>
+
+# PaperFin
+
