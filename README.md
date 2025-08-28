@@ -25,22 +25,27 @@ An overview over the projects I've made or been a part of.
   **Gameplay**  
   Venture into a foreboding fortress to gather riches with only a torch to guide you. Use sight, sound and the tools at hand to navigate the dark tunnels and unlock the Gorged One's chamber. Leaving empty-handed is not an option…  
   *Inspired by Swedish board game Drakborgen.*
-
-  <img src="/Gifs/G&D/Fighting.gif" width="60%">
   
-  <br>
   <br>
   
 <table>
   <tr>
-    <td><img src="/Pics/G&D/GorgeHand.png" width="200"/></td>
-    <td><img src="/Pics/G&D/ExitDoor.png" width="200"/></td>
+    <td rowspan="2">
+      <img src="/Gifs/G&amp;D/Fighting.gif" width="400"/>
+    </td>
+    <td>
+      <img src="/Pics/G&amp;D/GorgeHand.png" width="180" />
+      <img src="/Pics/G&amp;D/ExitDoor.png" width="180" />
+    </td>
   </tr>
   <tr>
-    <td><img src="/Pics/G&D/BarricadeRoom.png" width="200"/></td>
-    <td><img src="/Pics/G&D/RotationRoom.png" width="200"/></td>
+    <td>
+      <img src="/Pics/G&amp;D/BarricadeRoom.png" width="180" />
+      <img src="/Pics/G&amp;D/RotationRoom.png" width="180" />
+    </td>
   </tr>
 </table>
+
 
   <br>
 
@@ -53,4 +58,96 @@ An overview over the projects I've made or been a part of.
 </details>
 
 # PaperFin
+**A growing game with cutout magazine-style assets**
 
+<img src="/Pics/PaperFin/Poster.png" width="25%">
+
+  **Status:** Finished Gamejam  
+  **Engine:** Unity  
+  **Genre:** Atmospheric Growth 
+  **Team:** 2 Programmers, 3 Artists  
+
+  <br>
+  
+<details>
+  <summary><strong>Details</strong></summary>
+
+  <br>
+
+  **Gameplay**  
+  Play as a fish navigating a underwater world. Consume smaller fish to grow larger and stronger. 
+  Mastering movement and strategy to dominate the ecosystem.
+   <br>
+  <img src="/Gifs/PaperFin/Eating.gif" width="400"/>
+ 
+  <br>
+  
+  **Environment**
+  The game features a unique visual style. All assets are crafted from cutouts of magazines
+  
+  <br>
+  <img src="/Gifs/PaperFin/Environment.gif" width="400"/>
+  
+  <br>
+  
+
+  **About**  
+  Developed for the Global Game Jam 2024, PaperFin was awarded Best Graphics for its distinctive visual design.
+  <br>
+
+</details>
+
+
+# SnowBlind
+**A walking simulator horror game**
+
+[![Watch Trailer](https://img.shields.io/badge/Watch%20Trailer-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=AJ-b_6nHIyI)
+<img src="/Pics/SnowBlind/Poster.png" width="100%">
+
+  **Status:** Completed Student Project 
+  **Engine:** Unreal engine  
+  **Genre:** Atmospheric Walking Sim / Horror
+  **Team:** 3 Programmers, 2 Artists  
+
+  <br>
+  
+<details>
+  <summary><strong>Details</strong></summary>
+
+  <br>
+
+  **Gameplay**  
+  Survive a merciless frozen world where the cold can claim you within minutes. One wrong move, losing your way, or neglecting to eat could mean your downfall.
+  Unravel the mystery of this icy wasteland as you chase a team of researchers always just beyond your grasp. But beware; the freezing cold isn’t the only danger. You must fight to keep your sanity intact before reaching the epic conclusion.
+
+  <img src="/Gifs/Snowblind/Skiing.gif" width="400"/>
+
+  
+  **Environment**
+  SnowBlind features a harsh, frozen environment designed to immerse players in its chilling atmosphere.
+
+<table>
+  <tr>
+    <td>
+      <img src="/Pics/SnowBlind/1.png" width="180" />
+    </td>
+    <td>
+      <img src="/Pics/SnowBlind/2.png" width="180" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="/Pics/SnowBlind/3.png" width="180" />
+    </td>
+    <td>
+      <img src="/Pics/SnowBlind/4.png" width="180" />
+    </td>
+  </tr>
+</table>
+  
+
+  **About**  
+  SnowBlind was developed as a student project in Gothenburg, Sweden.
+  <br>
+
+</details>
